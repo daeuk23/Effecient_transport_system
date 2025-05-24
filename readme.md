@@ -21,7 +21,7 @@ Collaborated with->
 => Contact for future colaboration : (647)-879-3598, a24738598@gmail.com  
 [ZihaoYu](https://www.linkedin.com/in/zhihao-yu-683416229/) : Unit test handler, Error fix about Mapping C file  
 [WonJeon](https://www.linkedin.com/in/won-jeon-96488428b/) : collaborated ~ Nov 25th , unfortunately accidental drop-off of a project. (time management, Analyze origin files)  
-[YungTingHsu] : Enhance mapping, shipping C files, Evaluate Test Cases  
+YungTingHsu : Enhance mapping, shipping C files, Evaluate Test Cases  
 
 
 ## Operable Files  
