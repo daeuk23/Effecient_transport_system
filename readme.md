@@ -29,7 +29,7 @@ YungTingHsu : Enhance mapping, shipping C files, Evaluate Test Cases
 ### Class FIles
 
 **main**  
-Program functionality that connects each function and provides a simple interface (including header)
+Program functionality that connects each function and provides a simple interface (including header)  
 Shortcut: [main.c](project-starter/main.c), [main.h](project-starter/main.h)  
 
 **Mapping**  
