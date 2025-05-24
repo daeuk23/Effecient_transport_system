@@ -15,7 +15,7 @@ In other word This project creates an algorithm template for efficient logistics
 C++, C, 3rd party testing tools, Zira (task management)
 
 ## Project Period
-Nov 13rd ~ Dec 8th 2023  
+Nov 13th ~ Dec 8th 2023  
 Collaborated with->  
 [Daeuk Kim](https://www.linkedin.com/in/daeuk-kim-68628231b/) : Leader (main,mapping,shipping C files, whitebox testing)  => Contact for future colaboration : (647)-879-3598, a24738598@gmail.com
 [ZihaoYu](https://www.linkedin.com/in/zhihao-yu-683416229/) : Unit test handler, Error fix about Mapping C file  
