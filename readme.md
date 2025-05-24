@@ -2,7 +2,7 @@
 
 ## Summary Of Purpose
 It is an algorithm development project to increase the efficiency of transporting goods.  
-We implemented a system that can handle errors and find the best path using C, C++ languages and various test techniques.  
+We implemented a system that can handle errors and find the best path using C, C++ languages and various testing techniques.  
 
 Each route has restrictions such as weight and cost, and the routes available are also limited.  
 This project is designed to take into account travel distances and resource consumption, and choose the most efficient transportation route.  
