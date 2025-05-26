@@ -1,6 +1,3 @@
-//code work for confirming whether printing map is working properly or not
-// sft MS4 - group1 blackbox testing code, helper codes
-
 #include <stdio.h>
 #include "mapping.h"
 
